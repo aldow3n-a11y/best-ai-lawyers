@@ -1,0 +1,5 @@
+---
+User-agent: *
+Allow: /
+
+Sitemap: https://aldow3n-a11y.github.io/best-ai-lawyers/sitemap.xml
