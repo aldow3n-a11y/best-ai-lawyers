@@ -31,7 +31,7 @@ Live at: https://aldow3n-a11y.github.io/best-ai-lawyers/
 - Briefpoint
 
 ## Lead capture
-formsubmit.co → discus.leads@protonmail.com (zero account needed)
+formsubmit.co → discus.leads@proton.me (zero account needed)
 
 ## Next
 - Sign up for Spellbook partner program (priority)
